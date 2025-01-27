@@ -1,13 +1,13 @@
 ---
-baseURL: "https://iranzo.io"
-title: Pablo Iranzo Gómez blog
+baseURL: "https://CasaRuralIsabel.com"
+title: Web de Casa Rural Isabel
 theme: [PaperMod, reveal-hugo]
 
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-GoogleAnalytics: G-ZL9P943TP1
+GoogleAnalytics: false
 
 relativeURLs: true
 
@@ -21,12 +21,12 @@ pagination:
 params:
   mainSections: [tips, eko, bebe, blog, presentations, redkendoc]
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Pablo Iranzo Gómez blog
+  title: Casa Rural Isabel
   description: "A bunch of unrelated data"
   keywords: [Blog]
-  author: Pablo Iranzo Gómez
+  author: Casa Rural Isabel
   # author: ["Me", "You"] # multiple authors
-  images: ["/mugshot.png"]
+  images: []
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   responsiveImages: true
