@@ -52,32 +52,6 @@ params:
     icon: /apple-icon-152x152.png
     iconHeight: 35
 
-  # home-info mode
-  # homeInfoParams:
-  # Title: "Hi!"
-  # Content: Welcome to my blog
-
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: ""
-  #   yandex:
-  #     SiteVerificationTag: ""
-
-  cover:
-    hidden: false # hide everywhere but not in structured data
-    hiddenInList: false # hide on list pages and home
-    hiddenInSingle: true # hide on single page
-
-  # for search
-  # https://fusejs.io/api/options.html
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
     - identifier: home
@@ -103,33 +77,7 @@ permalinks:
   /: /:year/:month/:day/:title/
   blog: /blog/:year/:month/:day/:title/
 
-outputFormats:
-  Reveal:
-    baseName: index
-    mediaType: "text/html"
-    isHTML: true
-
 taxonomies:
   categories: categories
   series: series
   tag: tags
-
-caches:
-  assets:
-    dir: :resourceDir/_gen
-    maxAge: 3600s
-  getcsv:
-    dir: :cacheDir/:project
-    maxAge: 3600s
-  getjson:
-    dir: :cacheDir/:project
-    maxAge: 3600s
-  getresource:
-    dir: :cacheDir/:project
-    maxAge: 3600s
-  images:
-    dir: :resourceDir/_gen
-    maxAge: 3600s
-  modules:
-    dir: :cacheDir/modules
-    maxAge: 3600s
