@@ -1,7 +1,7 @@
 baseurl = "https://CasaRuralIsabel.com"
 title = "Casa Rural Isabel"
 theme = "hugo-theme-cleanwhite"
-languageCode = "en-us"
+languageCode = "es-ES"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 googleAnalytics = ""
@@ -51,19 +51,6 @@ home = ["HTML", "RSS", "Algolia"]
   disqus_proxy = ""
   disqus_site = ""
 
-  # Twikoo comments
-  # Follow https://twikoo.js.org/ to set up your own env_id
-  twikoo_env_id = ""
-
-  # Artalk comments
-  # Follow https://artalk.js.org/ to set up your own server
-  artalk_enable = true
-  artalk_server = "https://xxx.xxx.com"
-  artalk_site = "xxx blog"
-
-  #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
-  reward = true 
-  # reward_guide = "如果这篇文章对你有用,请随意打赏" 
 
   friends = true
   bookmarks = false
@@ -94,32 +81,32 @@ home = ["HTML", "RSS", "Algolia"]
   #xing          = "https://www.xing.com/profile/yourxingid"
   #git           = "full profile url for git user"
   
-  [[params.friend_link]]
-  title = "Linda的博客"
-  href =  "https://zhaozhihan.com"
-
-  [[params.bookmark_link]]
-  title =  "Martin Fowler"
-  href =  "https://martinfowler.com"
-  [[params.bookmark_link]]
-  title = "ServiceMesher"
-  href =  "http://www.servicemesher.com"
-  [[params.bookmark_link]]
-  title =  "Pxhere"
-  href = "https://pxhere.com"
-  [[params.bookmark_link]]
-  title = "unsplash"
-  href = "https://unsplash.com"
-  
-  [[params.addtional_menus]]
-  title =  "ARCHIVE"
-  href =  "/archive/"
-  [[params.addtional_menus]]
-  title =  "NOTES"
-  href =  "/notes/"
-  [[params.addtional_menus]]
-  title =  "ABOUT"
-  href =  "/about/"
+#   [[params.friend_link]]
+#   title = "Linda的博客"
+#   href =  "https://zhaozhihan.com"
+# 
+#   [[params.bookmark_link]]
+#   title =  "Martin Fowler"
+#   href =  "https://martinfowler.com"
+#   [[params.bookmark_link]]
+#   title = "ServiceMesher"
+#   href =  "http://www.servicemesher.com"
+#   [[params.bookmark_link]]
+#   title =  "Pxhere"
+#   href = "https://pxhere.com"
+#   [[params.bookmark_link]]
+#   title = "unsplash"
+#   href = "https://unsplash.com"
+#   
+#   [[params.addtional_menus]]
+#   title =  "ARCHIVE"
+#   href =  "/archive/"
+#   [[params.addtional_menus]]
+#   title =  "NOTES"
+#   href =  "/notes/"
+#   [[params.addtional_menus]]
+#   title =  "ABOUT"
+#   href =  "/about/"
 
 [outputFormats.Algolia]
 baseName = "algolia"
