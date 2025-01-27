@@ -90,7 +90,7 @@ menu:
       weight: 15
 
 outputs:
-  home: ["HTML", "RSS", "JSON"]
+  home: ["HTML", "RSS"]
   page: ["HTML"]
 
 sitemap:
