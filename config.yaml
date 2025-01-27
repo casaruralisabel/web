@@ -1,7 +1,7 @@
 ---
 baseURL: "https://CasaRuralIsabel.com"
 title: Web de Casa Rural Isabel
-theme: [PaperMod, reveal-hugo]
+theme: gohugo-theme-ananke
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -19,10 +19,10 @@ pagination:
   pagerSize: 5
 
 params:
-  mainSections: [tips, eko, bebe, blog, presentations, redkendoc]
+  mainSections: [blog]
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Casa Rural Isabel
-  description: "A bunch of unrelated data"
+  # description: ""
   keywords: [Blog]
   author: Casa Rural Isabel
   # author: ["Me", "You"] # multiple authors
@@ -57,11 +57,11 @@ params:
   # Title: "Hi!"
   # Content: Welcome to my blog
 
-  analytics:
-    google:
-      SiteVerificationTag: "Bk4Z5ucHLyPXqlZlj5LzANpYBBSvxqBW4E8i-Kwf-bQ"
-    yandex:
-      SiteVerificationTag: "993ede96cdfbee95"
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: ""
+  #   yandex:
+  #     SiteVerificationTag: ""
 
   cover:
     hidden: false # hide everywhere but not in structured data
@@ -81,38 +81,13 @@ params:
 menu:
   main:
     - identifier: home
-      name: 🏠Home
+      name: 🏠 Inicio
       url: /
       weight: 10
     - identifier: About
-      name: 🗒️About
+      name: 🗒️La casa
       url: /about/
       weight: 15
-    - identifier: redken
-      name: 🐘redken_bot
-      url: /redken_bot/
-      weight: 20
-    - identifier: projects
-      name: 📐Projects
-      url: /projects/
-      weight: 20
-    - identifier: archives
-      name: 🗄️ Archives
-      url: /archives/
-      weight: 20
-
-    - identifier: categories
-      name: 🗺️Categories
-      url: /categories/
-      weight: 30
-    - identifier: tags
-      name: 🏷️Tags
-      url: /tags/
-      weight: 35
-    - identifier: search
-      name: 🔎Search
-      url: /search
-      weight: 40
 
 outputs:
   home: ["HTML", "RSS", "JSON"]
@@ -133,15 +108,6 @@ outputFormats:
     baseName: index
     mediaType: "text/html"
     isHTML: true
-
-defaultContentLanguage: en
-languages:
-  en:
-    languageName: English
-    weight: 1
-  es:
-    languageName: Spanish
-    weight: 2
 
 taxonomies:
   categories: categories
