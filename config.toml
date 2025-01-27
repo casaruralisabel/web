@@ -1,71 +1,139 @@
+baseurl = "https://CasaRuralIsabel.com"
 title = "Casa Rural Isabel"
-baseURL = "https://casaruralisabel.com"
-theme = "ananke"
-resourceDir = "../resources"
+theme = "hugo-theme-cleanwhite"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+googleAnalytics = ""
+preserveTaxonomyNames = true
+paginate = 5 #frontpage pagination
+hasCJKLanguage = true
 
-defaultContentLanguage = "en"
-sectionPagesMenu = "main"
-enableRobotsTXT = true
-
-[services.googleAnalytics]
-id = ''
-
-[pagination]
-pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-
-[languages.en]
-contentDir = "content/en"
-languageCode = 'en-US'
-weight = 1
-title = "Casa Rural Isabel"
-# languageDirection = 'rtl' for Right-To-Left languages
-
-#[languages.es]
-#contentDir = "content/es"
-#languageCode = 'es-ES'
-#weight = 2
-#title = "Casa Rural Isabel ES"
-
-[sitemap]
-changefreq = "monthly"
-priority = 0.5
-filename = "sitemap.xml"
+[outputs]
+home = ["HTML", "RSS", "Algolia"]
 
 [params]
-text_color = ""
-author = ""
-favicon = ""
-site_logo = ""
-description = ""
-# choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-background_color_class = "bg-purple"
-# choose fitting and alignment styles for the featured image using Tachyons classes such as "cover|contain" for fitting and "bg-top|bg-center|bg-bottom" for alignment, or add any other class space-separated to customize further
-featured_image_class = "cover bg-top"
-# choose a color dimming class for the page or site header from any on this page: https://tachyons.io/docs/themes/skins/, preface it with "bg-" and add the value such as "-X0" where X is in [1,9]
-cover_dimming_class = "bg-purple-60"
-recent_posts_number = 3
+  header_image = "img/home-bg-jeep.jpg"
+  SEOTitle = "赵化冰的博客 | Zhaohuabing Blog"
+  description = "赵化冰，程序员, 开源爱好者，生活探险家 | 这里是 赵化冰 的博客，与你一起发现更大的世界。"
+  keyword = "赵化冰, zhaohuabing, Zhaohuabing, , 赵化冰的网络日志, 赵化冰的博客, Zhaohuabing Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice"
+  slogan = "路在脚下，心向远方"
+  upstreamAttribution = true
 
-[params.ananke.social.share]
-networks = [
-  "email",
-  "facebook",
-  "bluesky",
-  "linkedin"
-]
+  image_404 = "img/404-bg.jpg"
+  title_404 = "你来到了没有知识的荒原 :("
+  omit_categories = false
 
-[params.ananke.social.follow]
-networks = [
-  "facebook",
-  "bluesky",
-  "linkedin"
-]
+  # leancloud storage for page view counter
+  page_view_counter = false
+  leancloud_app_id = ""
+  leancloud_app_key = ""
 
-[params.ananke.social.facebook]
-username = "patrick.kollitsch"
-# profilelink = "https://www.facebook.com/patrick.kollitsch"
+  # algolia site search
+  algolia_search = true
+  algolia_appId = ""
+  algolia_indexName = ""
+  algolia_apiKey = ""
 
-[params.ananke.social.linkedin]
-username = "patrickkollitsch"
+  # Sidebar settings
+  sidebar_about_description = "Software Developer, Open Source Enthusiast and Life Adventurer"
+  #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/zhaohuabing.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-[params.ananke.social.bluesky]
-username = "kollitsch.dev"
+  featured_tags = true 
+  featured_condition_size = 1 
+
+  # Baidu Analytics
+  ba_track_id = ""
+  
+  # We need a proxy to access Disqus api in China
+  # Follow https://github.com/zhaohuabing/disqus-php-api to set up your own disqus proxy
+  disqus_proxy = ""
+  disqus_site = ""
+
+  # Twikoo comments
+  # Follow https://twikoo.js.org/ to set up your own env_id
+  twikoo_env_id = ""
+
+  # Artalk comments
+  # Follow https://artalk.js.org/ to set up your own server
+  artalk_enable = true
+  artalk_server = "https://xxx.xxx.com"
+  artalk_site = "xxx blog"
+
+  #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
+  reward = true 
+  # reward_guide = "如果这篇文章对你有用,请随意打赏" 
+
+  friends = true
+  bookmarks = false
+  about_me = true
+
+  # Include any custom CSS and/or JS files, url or relative to /static folder
+  #custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
+  #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
+
+  [params.social]
+  rss            = true 
+  email          = "youremail@gmail.com"
+  #facebook      = "full profile url in facebook"
+  #googleplus    = "full profile url in googleplus"
+  #twitter       = "full profile url in twitter"
+  linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
+  stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
+  #instagram     = "full profile url in instagram"
+  github         = "https://github.com/yourgithub"
+  wechat         = "your wechat qr code image"
+  #medium        = "full profile url in medium"
+  #slack         = "full workspace url in slack"
+  #pinterest     = "full profile url in pinterest"
+  #reddit        = "full profile url in reddit"
+  #gitlab        = "full profile url in gitlab"
+  #mastodon      = "full profile url in mastodon"
+  #keybase       = "full profile url in keybase"
+  #xing          = "https://www.xing.com/profile/yourxingid"
+  #git           = "full profile url for git user"
+  
+  [[params.friend_link]]
+  title = "Linda的博客"
+  href =  "https://zhaozhihan.com"
+
+  [[params.bookmark_link]]
+  title =  "Martin Fowler"
+  href =  "https://martinfowler.com"
+  [[params.bookmark_link]]
+  title = "ServiceMesher"
+  href =  "http://www.servicemesher.com"
+  [[params.bookmark_link]]
+  title =  "Pxhere"
+  href = "https://pxhere.com"
+  [[params.bookmark_link]]
+  title = "unsplash"
+  href = "https://unsplash.com"
+  
+  [[params.addtional_menus]]
+  title =  "ARCHIVE"
+  href =  "/archive/"
+  [[params.addtional_menus]]
+  title =  "NOTES"
+  href =  "/notes/"
+  [[params.addtional_menus]]
+  title =  "ABOUT"
+  href =  "/about/"
+
+[outputFormats.Algolia]
+baseName = "algolia"
+isPlainText = true
+mediaType = "application/json"
+notAlternative = true
+
+[params.algolia]
+vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+params = ["categories", "tags"] 
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+    startLevel = 1
+  [markup.highlight]
+    style = "dracula"
