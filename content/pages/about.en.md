@@ -10,5 +10,3 @@ lastmod: 2025-01-27T22:02:10.370Z
 ---
 
 ### Who am I?
-
-My name is Pablo and I've been working with Open Source since before I started university.
