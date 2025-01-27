@@ -20,11 +20,11 @@ weight = 1
 title = "Casa Rural Isabel"
 # languageDirection = 'rtl' for Right-To-Left languages
 
-[languages.es]
-contentDir = "content/es"
-languageCode = 'es-ES'
-weight = 2
-title = "Casa Rural Isabel ES"
+#[languages.es]
+#contentDir = "content/es"
+#languageCode = 'es-ES'
+#weight = 2
+#title = "Casa Rural Isabel ES"
 
 [sitemap]
 changefreq = "monthly"
