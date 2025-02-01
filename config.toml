@@ -8,6 +8,8 @@ googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = false
+defaultContentLanguage= "es"
+
 
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
@@ -30,7 +32,7 @@ home = ["HTML", "RSS", "Algolia"]
  leancloud_app_key = ""
 
  # algolia site search
- algolia_search = true
+ algolia_search = false
  algolia_appId = ""
  algolia_indexName = ""
  algolia_apiKey = ""
@@ -86,7 +88,7 @@ home = ["HTML", "RSS", "Algolia"]
 #
 [[params.bookmark_link]]
 title = "Cómo llegar"
-href = "https://www.google.com/maps/dir/39.5597128,-0.5025099/Casa+Rural+Isabel/"
+href = "/llegar"
 # [[params.bookmark_link]]
 # title = "ServiceMesher"
 # href = "http://www.servicemesher.com"

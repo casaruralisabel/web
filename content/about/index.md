@@ -1,7 +1,7 @@
 ---
 layout: page
-multilingual: true
-lastmod: 2025-02-01T10:51:31.066Z
+multilingual: false
+lastmod: 2025-02-01T11:20:40.417Z
 ---
 
 ## Acerca de
