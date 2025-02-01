@@ -1,19 +1,23 @@
 ---
 layout: post
-title: Bienvenidos a Casa Rural Isabel
+title: Bienvenidos
 date: 2025-01-28T00:00:00.000Z
 image: img/chimenea.jpg
-lastmod: 2025-02-01T08:51:33.995Z
+lastmod: 2025-02-01T10:39:42.877Z
 ---
 
 # Casa Rural Isabel
 
-Casa antigua con encanto muy hogareña y confortable. A pie de planta se encuentra el recibidor que da acceso al salón comedor con chimenea y cocina independiente. En la primera altura hay tres habitaciones todas ellas exteriores, luminosas y amplias. El cuarto de baño es amplio y completo. En la planta superior se encuentra una habitación con salida a una terraza con vistas.
+Descubre el encanto de la naturaleza en nuestra casa rural
 
-Nos encanta vivir en la naturaleza y que mejor que poder compartir este maravilloso entorno con la gente que busca relajarse, disfrutar de las noches con sus cielos estrellados considerados de los mejores de Europa, los paseos por el monte, la vía verde, el senderismo por las numerosas rutas que recorren estos preciosos parajes y senderos que acompañan a nuestros ríos o tal vez prefieras realizar actividades como la escalada, observar a los animales salvajes en su hábitat, recorrer los pinares en otoño recogiendo las preciadas setas, esquiar en invierno o visitar sus pueblos, monumentos y castillos.
+Sumérgete en la tranquilidad de un pequeño pueblo de la comarca Gúdar-Javalambre, donde el tiempo parece detenerse y la naturaleza te envuelve con su magia. Nuestra casa rural, una acogedora vivienda con historia, combina el encanto de lo antiguo con la comodidad de lo moderno, ofreciéndote un refugio perfecto para desconectar y disfrutar.
 
- Estaremos encantados de recibiros y de contaros mucho más.
+Al entrar, te recibirá un cálido salón con chimenea, ideal para compartir momentos inolvidables. La casa cuenta con una cocina independiente completamente equipada y amplias habitaciones llenas de luz natural. En la última planta, una terraza privada te regalará vistas impresionantes, perfectas para contemplar el cielo estrellado, considerado uno de los mejores de Europa.
 
-En este pequeño pueblo turolense de la comarca Gúdar-Javalambre, te sentirás como en casa. Su gente es acogedora y alegre. En la calle mayor nos encontramos con el horno con su pan artesano recién horneado cada tarde y de otras delicias que podréis degustar, farmacia y dos bares en los que se sirve cocina con productos de la zona, platos típicos y de calidad. En la localidad destacan la iglesia de estilo gótico tardío y renacentista de Nuestra Señora de Los Ángeles del siglo xvi, restos de un castillo templario y el puente medieval de los siglos XV y XVI.
+Aquí, la vida se vive sin prisas: disfruta de rutas de senderismo que recorren montañas, ríos y bosques; explora la Vía Verde en bicicleta o aventúrate en actividades como la escalada y la observación de fauna salvaje. En otoño, los pinares se visten de colores y se convierten en el paraíso de los amantes de las setas. Y en invierno, las estaciones de esquí de Valdelinares y Javalambre, a menos de una hora, te ofrecen la mejor nieve.
 
- Se encuentra a 50 Km de Teruel y cerca de Mora de Rubielos y Rubielos de Mora. A 35 Km en Arcos de las Salinas, se encuentra el centro de difusión y práctica de Astronomía "Galáctica" en el que podemos realizar visitas guiadas y actividades variadas, Contamos con las pistas de esquí de Valdelinares y Javalambre situadas a 50 y 45 km respectivamente.
+El pueblo es pequeño pero con un gran corazón. Sus gentes son acogedoras, y su pan recién horneado, un auténtico placer para los sentidos. Podrás degustar la gastronomía local en los bares de la zona y descubrir su legado histórico visitando la iglesia del siglo XVI, los restos del castillo templario y el puente medieval.
+
+A solo 50 km de Teruel y cerca de joyas como Mora de Rubielos y Rubielos de Mora, este rincón es perfecto para escapadas en pareja, en familia o con amigos. Además, si te apasiona la astronomía, a 35 km se encuentra "Galáctica", un centro único donde podrás explorar el universo como nunca antes.
+
+Ven a vivir una experiencia auténtica en plena naturaleza. ¡Te esperamos con los brazos abiertos!
