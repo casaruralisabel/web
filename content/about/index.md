@@ -1,17 +1,19 @@
 ---
 layout: page
 multilingual: false
-lastmod: 2025-02-01T11:20:40.417Z
+lastmod: 2025-02-02T23:18:58.127Z
 ---
 
-## Acerca de
+## Conócenos
 
-Informa a Casa Isabel con antelación de tu hora prevista de llegada. Para ello, puedes utilizar el apartado de peticiones especiales al hacer la reserva o ponerte en contacto directamente con el alojamiento. Los datos de contacto aparecen en la confirmación de la reserva.
+Hola!
 
-En este alojamiento no se pueden celebrar despedidas de soltero o soltera ni fiestas similares.
+Somos Miguel y Susana, los propietarios de Casa Isabel, una casa rural en Albentosa, un pequeño pueblo turolense de la comarca Gúdar-Javalambre, que esperamos que te cautive tanto como a nosotros.
 
-No se puede hacer ruido de 23:00 a 09:00.
+Nos encanta la naturaleza, la tranquilidad y la vida en el campo, y por eso decidimos adquirir esta casa con historia y convertirla en un lugar acogedor y lleno de encanto, donde poder disfrutar de la vida en plena naturaleza.
 
-Las personas menores de 18 años solo pueden alojarse si van acompañadas de alguno de sus progenitores o tutores legales.
+Nos gusta cuidar de los detalles y hacer que nuestros huéspedes se sientan como en casa, por eso estamos siempre disponibles para ayudarte en lo que necesites y para que tu estancia sea inolvidable.
 
-Número de licencia: CRTE-24-008
+Si buscas un lugar donde desconectar, disfrutar de la naturaleza y vivir una experiencia auténtica en un entorno rural, ¡Casa Isabel es tu casa!
+
+¡Te estamos esperando!

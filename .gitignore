@@ -11,3 +11,4 @@ __pycache__/
 frontmatter.json
 node_modules/
 .hugo_build.lock
+public/

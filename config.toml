@@ -6,81 +6,79 @@ languageCode = "es-ES"
 disqusShortname = ""
 googleAnalytics = ""
 preserveTaxonomyNames = true
-paginate = 5 #frontpage pagination
+paginate = 5                            #frontpage pagination
 hasCJKLanguage = false
 defaultContentLanguage= "es"
-
 
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
- header_image = "img/chimenea.jpg"
- SEOTitle = "Casa Rural Isabel | Naturaleza, aventura y tranquilidad"
- description = "Casa Rural Isabel, tu refugio en Gúdar-Javalambre. Disfruta de naturaleza, senderismo, cielos estrellados y esquí en Teruel. ¡Reserva tu escapada!"
- keyword = "Casa rural en Teruel, Casa rural Gúdar-Javalambre, Alojamiento rural en Teruel, Escapada rural Teruel, Turismo rural en Aragón"
- slogan = "Escápate, desconecta y disfruta."
- upstreamAttribution = false
+header_image = "img/chimenea.jpg"
+SEOTitle = "Casa Rural Isabel | Naturaleza, aventura y tranquilidad"
+description = "Casa Rural Isabel, tu refugio en Gúdar-Javalambre. Disfruta de naturaleza, senderismo, cielos estrellados y esquí en Teruel. ¡Reserva tu escapada!"
+keyword = "Casa rural en Teruel, Casa rural Gúdar-Javalambre, Alojamiento rural en Teruel, Escapada rural Teruel, Turismo rural en Aragón"
+slogan = "Escápate, desconecta y disfruta."
+upstreamAttribution = false
 
- image_404 = "img/404-bg.jpg"
- title_404 = "No encontrado :'("
- omit_categories = false
+image_404 = "img/404-bg.jpg"
+title_404 = "No encontrado :'("
+omit_categories = false
 
- # leancloud storage for page view counter
- page_view_counter = false
- leancloud_app_id = ""
- leancloud_app_key = ""
+# leancloud storage for page view counter
+page_view_counter = false
+leancloud_app_id = ""
+leancloud_app_key = ""
 
- # algolia site search
- algolia_search = false
- algolia_appId = ""
- algolia_indexName = ""
- algolia_apiKey = ""
+# algolia site search
+algolia_search = false
+algolia_appId = ""
+algolia_indexName = ""
+algolia_apiKey = ""
 
- # Sidebar settings
- sidebar_about_description = "Conócenos!"
- sidebar_avatar = "img/outline.jpg" # use absolute URL, seeing it's used in both `/` and `/about/`
+# Sidebar settings
+sidebar_about_description = "Conócenos!"
+sidebar_avatar = "img/outline.jpg"       # use absolute URL, seeing it's used in both `/` and `/about/`
 
- featured_tags = true
- featured_condition_size = 1
+featured_tags = false
+featured_condition_size = 1
 
- # Baidu Analytics
- ba_track_id = ""
+# Baidu Analytics
+ba_track_id = ""
 
- # We need a proxy to access Disqus api in China
- # Follow https://github.com/zhaohuabing/disqus-php-api to set up your own disqus proxy
- disqus_proxy = ""
- disqus_site = ""
+# We need a proxy to access Disqus api in China
+# Follow https://github.com/zhaohuabing/disqus-php-api to set up your own disqus proxy
+disqus_proxy = ""
+disqus_site = ""
 
+friends = false
+bookmarks = true
+about_me = true
 
- friends = false
- bookmarks = true
- about_me = true
+# Include any custom CSS and/or JS files, url or relative to /static folder
+#custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
+#custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
 
- # Include any custom CSS and/or JS files, url or relative to /static folder
- #custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
- #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
-
- [params.social]
- rss = false
- email = "informacion@casaruralisabel.com"
- #facebook = "full profile url in facebook"
- #googleplus = "full profile url in googleplus"
- #twitter = "full profile url in twitter"
- #linkedin = "https://www.linkedin.com/in/yourlinkedinid"
- #stackoverflow = "https://stackoverflow.com/users/yourstackoverflowid"
- #instagram = "full profile url in instagram"
- #github = "https://github.com/yourgithub"
- wechat = "https://web.whatsapp.com/send/?text&type=phone_number&app_absent=&phone=34606649548"
- #medium = "full profile url in medium"
- #slack = "full workspace url in slack"
- #pinterest = "full profile url in pinterest"
- #reddit = "full profile url in reddit"
- #gitlab = "full profile url in gitlab"
- #mastodon = "full profile url in mastodon"
- #keybase = "full profile url in keybase"
- #xing = "https://www.xing.com/profile/yourxingid"
- #git = "full profile url for git user"
+[params.social]
+rss = false
+email = "informacion@casaruralisabel.com"
+#facebook = "full profile url in facebook"
+#googleplus = "full profile url in googleplus"
+#twitter = "full profile url in twitter"
+#linkedin = "https://www.linkedin.com/in/yourlinkedinid"
+#stackoverflow = "https://stackoverflow.com/users/yourstackoverflowid"
+#instagram = "full profile url in instagram"
+#github = "https://github.com/yourgithub"
+wechat = "https://web.whatsapp.com/send/?text&type=phone_number&app_absent=&phone=34606649548"
+#medium = "full profile url in medium"
+#slack = "full workspace url in slack"
+#pinterest = "full profile url in pinterest"
+#reddit = "full profile url in reddit"
+#gitlab = "full profile url in gitlab"
+#mastodon = "full profile url in mastodon"
+#keybase = "full profile url in keybase"
+#xing = "https://www.xing.com/profile/yourxingid"
+#git = "full profile url for git user"
 
 # [[params.friend_link]]
 # title = "Linda的博客"
@@ -97,6 +95,19 @@ href = "/llegar"
 [[params.bookmark_link]]
 title = "🎬 Actividades"
 href = "/actividades"
+
+[[params.bookmark_link]]
+title = "🌲 Entorno"
+href = "/entorno"
+
+
+[[params.bookmark_link]]
+title = "👪 Conócenos"
+href = "/about"
+
+[[params.bookmark_link]]
+title = "📝 Normas"
+href = "/normas"
 
 # [[params.bookmark_link]]
 # title = "ServiceMesher"
@@ -129,8 +140,8 @@ vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
 params = ["categories", "tags"]
 
 [markup]
- [markup.tableOfContents]
- endLevel = 2
- startLevel = 1
- [markup.highlight]
- style = "dracula"
+[markup.tableOfContents]
+endLevel = 2
+startLevel = 1
+[markup.highlight]
+style = "dracula"

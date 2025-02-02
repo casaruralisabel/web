@@ -1,13 +1,49 @@
 ---
 layout: page
 multilingual: false
-lastmod: 2025-02-02T22:44:07.990Z
+lastmod: 2025-02-02T23:35:03.524Z
 ---
 
 ## La casa
 
-Casa antigua con encanto muy hogareña y confortable. A pie de planta se encuentra el recibidor que da acceso al salón comedor con chimenea y cocina independiente. En la primera altura hay tres habitaciones todas ellas exteriores, luminosas y amplias. El cuarto de baño es amplio y completo. En la planta superior se encuentra una habitación con salida a una terraza con vistas.
+Encanto rústico en Albentosa, Teruel: una casa con historia y calidez
 
-Nos encanta vivir en la naturaleza y que mejor que poder compartir este maravilloso entorno con la gente que busca relajarse, disfrutar de las noches con sus cielos estrellados considerados de los mejores de Europa, los paseos por el monte, la vía verde, el senderismo por las numerosas rutas que recorren estos preciosos parajes y senderos que acompañan a nuestros ríos o tal vez prefieras realizar actividades como la escalada, observar a los animales salvajes en su hábitat, recorrer los pinares en otoño recogiendo las preciadas setas, esquiar en invierno o visitar sus pueblos, monumentos y castillos. Estaremos encantados de recibiros y de contaros mucho más.
+Si buscas una casa con alma, en un entorno tranquilo y con el encanto de la vida rural, esta acogedora vivienda en Albentosa, en plena comarca de Gúdar-Javalambre, es ideal para ti. Su arquitectura tradicional, su ambiente cálido y su ubicación privilegiada en el corazón del pueblo la convierten en un lugar perfecto tanto para una escapada como para una residencia habitual.
 
-En este pequeño pueblo turolense de la comarca Gúdar-Javalambre, te sentirás como en casa. Su gente es acogedora y alegre. En la calle mayor nos encontramos con el horno con su pan artesano recién horneado cada tarde y de otras delicias que podréis degustar, farmacia y dos bares en los que se sirve cocina con productos de la zona, platos típicos y de calidad. En la localidad destacan la iglesia de estilo gótico tardío y renacentista de Nuestra Señora de Los Ángeles del siglo xvi, restos de un castillo templario y el puente medieval de los siglos XV y XVI. Se encuentra a 50 Km de Teruel y cerca de Mora de Rubielos y Rubielos de Mora. A 35 Km en Arcos de las Salinas, se encuentra el centro de difusión y práctica de Astronomía "Galáctica" en el que podemos realizar visitas guiadas y actividades variadas, Contamos con las pistas de esquí de Valdelinares y Javalambre situadas a 50 y 45 km respectivamente.
+Situada cerca de la calle Mayor, estarás a pocos pasos del horno del pueblo, donde cada tarde podrás disfrutar del delicioso pan artesano recién horneado, además de otras especialidades locales. También encontrarás una farmacia y dos bares que ofrecen cocina con productos de la zona, platos típicos y de excelente calidad, perfectos para degustar la gastronomía turolense.
+
+### Distribución y espacios
+
+#### Planta baja
+
+Al entrar en la casa, un acogedor recibidor da la bienvenida y nos conduce al salón-comedor, donde la chimenea crea un ambiente cálido y hogareño, ideal para reuniones familiares o momentos de relax.
+
+![](/img/casa/salon1.jpg)
+
+![](/img/casa/salon2.jpg)
+La cocina independiente, totalmente equipada, permite disfrutar de la cocina con comodidad.
+
+![](/img/casa/cocina.jpg)
+
+#### Planta primera
+
+En la primera planta, tres habitaciones amplias y luminosas, todas exteriores, ofrecen un espacio perfecto para el descanso.
+
+![](/img/casa/hab1.jpg)
+![](/img/casa/hab2.jpg)
+![](/img/casa/hab3.jpg)
+
+En esta misma altura se encuentra un baño completo, de generosas dimensiones y con todo lo necesario para el confort diario.
+![](/img/casa/banyo.jpg)
+
+#### Planta superior
+
+La planta superior es un rincón especial de la casa: una habitación con acceso a una preciosa terraza con vistas.
+
+![](/img/casa/superior.jpg)
+
+Desde aquí, podrás disfrutar de la tranquilidad del entorno, leer un libro al aire libre o simplemente contemplar el paisaje que cambia con cada estación.
+
+![](/img/casa/terraza.jpg)
+
+![](/img/casa/terraza2.jpg)
