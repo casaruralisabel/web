@@ -89,6 +89,11 @@ title = "🏠 La casa"
 href = "/lacasa"
 
 [[params.bookmark_link]]
+title = "📺 Sevicios"
+href = "/servicios"
+
+
+[[params.bookmark_link]]
 title = "🗺️ Cómo llegar"
 href = "/llegar"
 
@@ -99,7 +104,6 @@ href = "/actividades"
 [[params.bookmark_link]]
 title = "🌲 Entorno"
 href = "/entorno"
-
 
 [[params.bookmark_link]]
 title = "👪 Conócenos"
