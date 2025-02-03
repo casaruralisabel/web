@@ -20,7 +20,6 @@ Las condiciones de cancelación y prepago pueden variar según el tipo de reserv
 #### **👶 Estancias con niños**
 
 ✔ Los niños de cualquier edad son bienvenidos.
-✔ Si viajas con niños, indica su número y edad al hacer la reserva para recibir la mejor tarifa y disponibilidad.
 
 #### **🛏️ Cunas y camas supletorias**
 
