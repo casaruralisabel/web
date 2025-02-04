@@ -1,0 +1,12 @@
+---
+weight: 2
+title: "Gastronomía para parar un tren"
+description: >
+  <ul class="list-style-none">
+    <li>Setas de otoño</li>
+    <li>Panadería artesana</li>
+    <li>Charcuterías</li>
+    <li>Jamón de Teruel</li>
+  </ul>
+image: "img/setas.png"
+href: "/gastronomia"

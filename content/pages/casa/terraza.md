@@ -1,7 +1,7 @@
 ---
 layout: page
 multilingual: false
-lastmod: 2025-02-04T14:46:41.354Z
+lastmod: 2025-02-04T17:17:50.972Z
 image: img/chimenea.jpg
 banner: img/chimenea.jpg
 featured_image: img/chimenea.jpg
@@ -14,6 +14,6 @@ categories:
 
 Desde aquí, podrás disfrutar de la tranquilidad del entorno, leer un libro al aire libre o simplemente contemplar el paisaje que cambia con cada estación.
 
-![](/img/casa/terraza.jpg)
+![Detalle de la terraza](/img/casa/terraza.jpg)
 
-![](/img/casa/terraza2.jpg)
+![Vistas de la terraza](/img/casa/terraza2.jpg)
