@@ -126,6 +126,12 @@ weight = 2
 parent = "section.portfolio"
 
 [[menu.main]]
+name = "Gastronomía"
+url = "/gastronomia"
+weight = 3
+parent = "section.portfolio"
+
+[[menu.main]]
 name = "Blog"
 identifier = "menu.blog"
 url = "/blog/"
