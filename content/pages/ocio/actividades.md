@@ -1,7 +1,7 @@
 ---
 layout: page
 multilingual: false
-lastmod: 2025-02-04T18:38:57.638Z
+lastmod: 2025-02-04T19:03:44.836Z
 url: /actividades
 title: Actividades en Albentosa y alrededores
 categories:
@@ -45,7 +45,7 @@ Albentosa es un destino perfecto para disfrutar de la tranquilidad y la naturale
 
 ### Experiencias astronómicas
 
-- **[Galáctica - Centro de Difusión y Práctica de la Astronomía](https://galactica.org.es/**: Ubicado en Arcos de las Salinas, este centro ofrece una experiencia única para aprender sobre el universo y realizar observaciones con telescopios avanzados.
+- **[Galáctica - Centro de Difusión y Práctica de la Astronomía](https://galactica.org.es/)**: Ubicado en Arcos de las Salinas, este centro ofrece una experiencia única para aprender sobre el universo y realizar observaciones con telescopios avanzados.
 - **[Teruel Celeste](http://www.teruelceleste.com/?m=1)**: Un observatorio especializado en turismo astronómico, ideal para contemplar uno de los cielos más limpios de Europa.
 
 ### Miradores y paisajes naturales
