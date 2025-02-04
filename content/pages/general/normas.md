@@ -1,7 +1,7 @@
 ---
 layout: page
 multilingual: false
-lastmod: 2025-02-04T14:44:22.203Z
+lastmod: 2025-02-04T18:32:08.520Z
 url: /normas
 title: Normas de Casa Rural Isabel
 ---
@@ -32,10 +32,6 @@ Queremos que tu estancia sea lo más placentera posible, por lo que te pedimos q
 - 🚭 **No está permitido fumar** en el alojamiento.
 - 🎉 **No se pueden celebrar fiestas o eventos**.
 - 🔇 **Horario de descanso:** Pedimos a nuestros huéspedes que minimicen el ruido entre **23:00 y 9:00**.
-
-#### **🐾 Mascotas bienvenidas**
-
-✔ **Se admiten mascotas bajo petición, sin coste adicional**.
 
 Si tienes alguna petición especial, ¡háznoslo saber! Queremos que disfrutes de una estancia cómoda y sin preocupaciones. 😊
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 multilingual: false
-lastmod: 2025-02-04T17:03:05.702Z
+lastmod: 2025-02-04T18:38:57.638Z
 url: /actividades
 title: Actividades en Albentosa y alrededores
 categories:
@@ -45,7 +45,7 @@ Albentosa es un destino perfecto para disfrutar de la tranquilidad y la naturale
 
 ### Experiencias astronómicas
 
-- **Galáctica - Centro de Difusión y Práctica de la Astronomía**: Ubicado en Arcos de las Salinas, este centro ofrece una experiencia única para aprender sobre el universo y realizar observaciones con telescopios avanzados.
+- **[Galáctica - Centro de Difusión y Práctica de la Astronomía](https://galactica.org.es/**: Ubicado en Arcos de las Salinas, este centro ofrece una experiencia única para aprender sobre el universo y realizar observaciones con telescopios avanzados.
 - **[Teruel Celeste](http://www.teruelceleste.com/?m=1)**: Un observatorio especializado en turismo astronómico, ideal para contemplar uno de los cielos más limpios de Europa.
 
 ### Miradores y paisajes naturales
@@ -61,14 +61,6 @@ Albentosa es un destino perfecto para disfrutar de la tranquilidad y la naturale
 
 - **[Memorial March de Albentosa](https://www.diariodeteruel.es/comarcas/el-publico-del-memorial-march-de-albentosa-participara-activamente-como-poblacion-civil)**: Un evento de recreación histórica que transporta a los visitantes a la época de la Guerra Civil Española.
 - **[Mora Shopping en Mora de Rubielos](https://www.moraderubielos.com/index.php/servicios/mora-shopping)**: Un mercado con productos artesanales, moda y gastronomía local.
-
-### Gastronomía local
-
-- **[Setas de otoño en Teruel](https://degustateruel.com/es/blog/noticias/setas-de-otono-los-boletus-y-rebollones-en-teruel)**: Durante el otoño, los bosques cercanos a Albentosa se llenan de setas como boletus y rebollones, una delicia para los amantes de la micología.
-- **[Paté de Alcachofa con Trufa](https://truffalshop.com/pate-de-alcachofa-con-trufa.html)**: Un producto gourmet con el inconfundible sabor de la trufa negra de Teruel.
-- **[Panadería Artesana Escriche](https://ponaragonentumesa.com/directorio/sector/productores/panaderia-reposteria-dulces-y-turrones/panaderia-artesana-escriche/)**: Famosa por su pan tradicional y sus dulces caseros elaborados con recetas centenarias.
-- **[Charcuterías Casa Mata](https://g.co/kgs/n1HkYbu)**: Un lugar ideal para comprar embutidos artesanales y productos cárnicos de alta calidad.
-- **[Cárnicas Corella S.L.](https://g.co/kgs/C9kzfgp)**: Especialistas en carnes y embutidos tradicionales, con productos que destacan por su sabor auténtico.
 
 ---
 
