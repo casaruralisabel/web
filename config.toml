@@ -265,7 +265,7 @@ blog = "/blog/:year/:month/:day/:filename/"
 # Enable or disable top bar with social icons
 [params.topbar]
 enable = true
-text = """<p class="hidden-sm hidden-xs">Llámanos al +34606649548 o escribe a informacion@casaruralisabel.com</p>
+text = """<p class="hidden-sm hidden-xs">Llámanos al <a href="tef:+34606649548">+34606649548</a> o escribe a <a href="mailto:informacion@casaruralisabel.com">informacion@casaruralisabel.com</a></p>
 <p class="hidden-md hidden-lg"><a href="tel:+34606649548" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
 <a href="mailto:informacion@casaruralisabel.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
 </p>
