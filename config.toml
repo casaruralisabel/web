@@ -1,151 +1,338 @@
-baseurl = "https://CasaRuralIsabel.com"
+baseurl = "https://CasaRuralIsabel.com/"
 title = "Casa Rural Isabel"
-theme = "hugo-theme-cleanwhite"
-languageCode = "es-ES"
-# Enable comments by entering your Disqus shortname
-disqusShortname = ""
-googleAnalytics = ""
-preserveTaxonomyNames = true
-paginate = 5                            #frontpage pagination
-hasCJKLanguage = false
-defaultContentLanguage= "es"
+theme = "universal"
 
-[outputs]
-home = ["HTML", "RSS", "Algolia"]
+languageCode = "es-es"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "es"
+
+# number of words of summarized post content (default 70)
+summaryLength = 70
+
+# Define the number of posts per page
+paginate = 10
+
+# not pluralize title pages by default
+pluralizelisttitles = false
+
+[services]
+# [services.disqus]
+# Enable comments by entering your Disqus shortname
+# Shortname = "devcows"
+[services.googleAnalytics]
+# Enable Google Analytics by entering your tracking code
+id = ""
+
+[menu]
+
+# Main menu
+[[menu.main]]
+name = "Inicio"
+identifier = "menu.home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Casa Isabel"
+identifier = "menu.casa"
+url = "img/tinajas.jpg"
+weight = 3
+
+[[menu.main]]
+name = "La Casa"
+identifier = "section.shortcodes"
+url = ""
+weight = 1
+parent = "menu.casa"
+post = 1
+
+[[menu.main]]
+name = "Salon"
+url = "/salon"
+weight = 2
+parent = "section.shortcodes"
+
+[[menu.main]]
+name = "Habitaciones"
+url = "/habitaciones"
+weight = 3
+parent = "section.shortcodes"
+
+[[menu.main]]
+name = "Cocina"
+url = "/cocina"
+weight = 4
+parent = "section.shortcodes"
+
+[[menu.main]]
+name = "Terraza"
+url = "/terraza"
+weight = 5
+parent = "section.shortcodes"
+
+[[menu.main]]
+name = "Cómo llegar"
+url = "/llegar"
+weight = 6
+parent = "section.shortcodes"
+
+[[menu.main]]
+name = "Servicios"
+url = "/servicios"
+weight = 7
+parent = "section.shortcodes"
+
+
+[[menu.main]]
+name = "Normas"
+url = "/normas"
+weight = 8
+parent = "section.shortcodes"
+
+
+
+[[menu.main]]
+name = "Conócenos"
+url = "/acerca"
+weight = 9
+parent = "section.shortcodes"
+
+
+[[menu.main]]
+name = "Ocio"
+identifier = "menu.portfolio"
+url = "/img/entorno/albentosa.jpg"
+weight = 3
+
+[[menu.main]]
+name = "Ocio"
+identifier = "section.portfolio"
+url = ""
+weight = 1
+parent = "menu.portfolio"
+post = 1
+
+[[menu.main]]
+name = "El entorno"
+url = "/entorno"
+weight = 1
+parent = "section.portfolio"
+
+
+[[menu.main]]
+name = "Actividades"
+url = "/actividades"
+weight = 2
+parent = "section.portfolio"
+
+[[menu.main]]
+name = "Blog"
+identifier = "menu.blog"
+url = "/blog/"
+weight = 5
+
+[[menu.main]]
+name = "P+F"
+identifier = "menu.faq"
+url = "/faq/"
+weight = 6
+
+[[menu.main]]
+identifier = "contact"
+name = "Contactar"
+url = "/contactar/"
+weight = 7
+
+# Top bar social links menu
+
+[[menu.topbar]]
+weight = 1
+name = "Whatsapp"
+url = "https://wa.me/34606649548"
+pre = "<i class='fa-brands fa-2x fa-whatsapp'></i>"
+
+[[menu.topbar]]
+weight = 2
+name = "Teléfono"
+url = "tel:+34606649548"
+pre = "<i class='fas fa-2x fa-phone'></i>"
+
+[[menu.topbar]]
+weight = 4
+name = "Mapa"
+url = "/llegar"
+pre = "<i class='fa-2x fa-solid fa-map-marker'> </i>"
+#
+#[[menu.topbar]]
+#    weight = 4
+#    name = "Twitter"
+#    url = "http://twitter.com"
+#    pre = "<i class='fab fa-2x fa-twitter'></i>"
+
+[[menu.topbar]]
+weight = 3
+name = "Email"
+url = "mailto:informacion@casaruralisabel.com"
+pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
-header_image = "img/chimenea.jpg"
-SEOTitle = "Casa Rural Isabel | Naturaleza, aventura y tranquilidad"
-description = "Casa Rural Isabel, tu refugio en Gúdar-Javalambre. Disfruta de naturaleza, senderismo, cielos estrellados y esquí en Teruel. ¡Reserva tu escapada!"
-keyword = "Casa rural en Teruel, Casa rural Gúdar-Javalambre, Alojamiento rural en Teruel, Escapada rural Teruel, Turismo rural en Aragón"
-slogan = "Escápate, desconecta y disfruta."
-upstreamAttribution = false
+viewMorePostLink = "/blog/"
+author = "DevCows"
+defaultKeywords = ["Casa Rural Isabel", "Casa Rural", "Casa Isabel", "Teruel", "Relax", "Descanso"]
+mainSections = ["blog"]
+defaultDescription = "Página web de la Casa Rural Isabel"
 
-image_404 = "img/404-bg.jpg"
-title_404 = "No encontrado :'("
-omit_categories = false
+# Social media
+#facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
+#twitter_site = "GoHugoIO" # the Twitter handle of your site (without the '@')
+default_sharing_image = "img/outline.jpg"
 
-# leancloud storage for page view counter
-page_view_counter = false
-leancloud_app_id = ""
-leancloud_app_key = ""
+# Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
+#enableGoogleMaps = true
+#googleMapsApiKey = "AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY"
 
-# algolia site search
-algolia_search = false
-algolia_appId = ""
-algolia_indexName = ""
-algolia_apiKey = ""
+latitude = "-12.043333"
+longitude = "-77.028333"
 
-# Sidebar settings
-sidebar_about_description = "Conócenos!"
-sidebar_avatar = "img/outline.jpg"       # use absolute URL, seeing it's used in both `/` and `/about/`
+# Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+style = "default"
 
-featured_tags = false
-featured_condition_size = 1
-
-# Baidu Analytics
-ba_track_id = ""
-
-# We need a proxy to access Disqus api in China
-# Follow https://github.com/zhaohuabing/disqus-php-api to set up your own disqus proxy
-disqus_proxy = ""
-disqus_site = ""
-
-friends = false
-bookmarks = true
-about_me = true
-
-# Include any custom CSS and/or JS files, url or relative to /static folder
-#custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
-#custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
-
-[params.social]
-rss = false
-email = "informacion@casaruralisabel.com"
-#facebook = "full profile url in facebook"
-#googleplus = "full profile url in googleplus"
-#twitter = "full profile url in twitter"
-#linkedin = "https://www.linkedin.com/in/yourlinkedinid"
-#stackoverflow = "https://stackoverflow.com/users/yourstackoverflowid"
-#instagram = "full profile url in instagram"
-#github = "https://github.com/yourgithub"
-wechat = "https://wa.me/34606649548"
-#medium = "full profile url in medium"
-#slack = "full workspace url in slack"
-#pinterest = "full profile url in pinterest"
-#reddit = "full profile url in reddit"
-#gitlab = "full profile url in gitlab"
-#mastodon = "full profile url in mastodon"
-#keybase = "full profile url in keybase"
-#xing = "https://www.xing.com/profile/yourxingid"
-#git = "full profile url for git user"
-
-# [[params.friend_link]]
-# title = "Linda的博客"
-# href = "https://zhaozhihan.com"
+# Since this template is static, the contact form uses www.formspree.io as a
+# proxy. The form makes a POST request to their servers to send the actual
+# email. Visitors can send up to a 50 emails each month for free.
 #
-[[params.bookmark_link]]
-title = "🏠 La casa"
-href = "/lacasa"
-
-[[params.bookmark_link]]
-title = "📺 Sevicios"
-href = "/servicios"
-
-
-[[params.bookmark_link]]
-title = "🗺️ Cómo llegar"
-href = "/llegar"
-
-[[params.bookmark_link]]
-title = "🎬 Actividades"
-href = "/actividades"
-
-[[params.bookmark_link]]
-title = "🌲 Entorno"
-href = "/entorno"
-
-[[params.bookmark_link]]
-title = "👪 Conócenos"
-href = "/about"
-
-[[params.bookmark_link]]
-title = "📝 Normas"
-href = "/normas"
-
-# [[params.bookmark_link]]
-# title = "ServiceMesher"
-# href = "http://www.servicemesher.com"
-# [[params.bookmark_link]]
-# title = "Pxhere"
-# href = "https://pxhere.com"
-# [[params.bookmark_link]]
-# title = "unsplash"
-# href = "https://unsplash.com"
+# What you need to do for the setup?
 #
-# [[params.addtional_menus]]
-# title = "ARCHIVE"
-# href = "/archive/"
-# [[params.addtional_menus]]
-# title = "NOTES"
-# href = "/notes/"
-# [[params.addtional_menus]]
-# title = "ABOUT"
-# href = "/about/"
+# - register your account to https://formspree.io/register
+# - login and create new form
+# - set your form's endpoint url under 'formspree_action' below
+# - upload the generated site to your server
+# - test a dummy email yourself
+# - you're done. Happy mailing!
+#
+# Enable the contact form by entering your Formspree.io endpoint url
+#formspree_action = "https://formspree.io/sample/of/endpoint"
+#contact_form_ajax = false
 
-[outputFormats.Algolia]
-baseName = "algolia"
-isPlainText = true
-mediaType = "application/json"
-notAlternative = true
+# Formspree form supports Google reCAPTCHA Key (type v2).
+# If you use this feature, you should enable reCAPTCHA feature in the Formspree dashboard.
+#
+# By default, Formspree use a redirect page for recaptcha widget.
+# If you use a recaptcha widget in your contact page, you should do next steps.
+# (if you don't want, skip these steps)
+#
+#   1. register your site on Google recaptcha admin page: https://www.google.com/recaptcha/admin
+#   2. select reCAPTCHA v2 and checkbox widget type.
+#   3. remember site key and secret key.
+#   4. enter secret key into "Custom reCAPTCHA Key" field in your Formspree form setting page.
+#   5. change `enableRecaptchaInContactForm` is to true
+#   6. enter site key into `googleRecaptchaKey` to enable a recaptcha widget in your page.
+#
+enableRecaptchaInContactForm = false
+googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-[params.algolia]
-vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
-params = ["categories", "tags"]
+about_us = "<p>Casa Rural Isabel - Albentosa</p>"
+copyright = "Copyright 2025 (c), Casa Rural Isabel"
 
-[markup]
-[markup.tableOfContents]
-endLevel = 2
-startLevel = 1
-[markup.highlight]
-style = "dracula"
+# Format dates with Go's time formatting
+date_format = "January 2, 2006"
+
+dropdown_mouse_over = false
+
+disabled_logo = false
+logo_text = "Logotipo"
+
+logo = "img/outline.jpg"
+logo_small = "img/outline.jpg"
+contact_url = "/contactar"
+address = """<p class="text-uppercase"><strong>Casa Rural Isabel</strong>
+<br>Calle Marqueses 5
+<br>44477 Albentosa, Teruel
+<br>
+<strong>España</strong>
+</p>
+"""
+
+[permalinks]
+blog = "/blog/:year/:month/:day/:filename/"
+
+# Enable or disable top bar with social icons
+[params.topbar]
+enable = true
+text = """<p class="hidden-sm hidden-xs">Llámanos al +34606649548 o escribe a informacion@casaruralisabel.com</p>
+<p class="hidden-md hidden-lg"><a href="tel:+34606649548" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+<a href="mailto:informacion@casaruralisabel.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+</p>
+"""
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+categories = false
+tags = false
+search = false
+
+[params.carouselCustomers]
+items = 6
+auto_play = true
+slide_speed = 2000
+pagination_speed = 1000
+
+[params.carouselTestimonials]
+items = 4
+auto_play = true
+slide_speed = 2000
+pagination_speed = 1000
+
+[params.carouselHomepage]
+# All carousel items are defined in their own files. You can find example items
+# at 'exampleSite/data/carousel'.
+# For more information take a look at the README.
+enable = true
+auto_play = true
+slide_speed = 2000
+pagination_speed = 1000
+
+[params.features]
+enable = true
+cols = 3          # Default: 3, Available values 2,3,4,6
+# All features are defined in their own files. You can find example items
+# at 'exampleSite/data/features'.
+# For more information take a look at the README.
+
+[params.testimonials]
+enable = true
+# All testimonials are defined in their own files. You can find example items
+# at 'exampleSite/data/testimonials'.
+# For more information take a look at the README.
+title = "Referencias"
+subtitle = "Durante este tiempo hemos atendido a muchos huéspedes... ¡Mira lo que dicen de nosotros!"
+
+[params.see_more]
+enable = true
+icon = "fa-solid fa-couch"
+title = "¿Quieres encontrar un lugar para descansar rodeado de historia y de actividades al alcance de tu mano?"
+subtitle = "¡Has encontrado el lugar que buscabas!"
+link_url = "/contactar"
+link_text = "¡Contacta con nosotros!"
+
+[params.clients]
+enable = false
+# All clients are defined in their own files. You can find example items
+# at 'exampleSite/data/clients'.
+# For more information take a look at the README.
+title = "Our Clients"
+subtitle = ""
+
+[params.recent_posts]
+enable = true
+title = "De nuestro blog"
+subtitle = "Aquí tienes algunos de nuestros artículos en el blog"
+hide_summary = false
+
+[params.footer.recent_posts]
+enable = true
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+author = "authors"
