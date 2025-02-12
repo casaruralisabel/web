@@ -1,8 +1,8 @@
 ---
 layout: page
 multilingual: false
-lastmod: 2025-02-04T14:53:50.464Z
-featured_image: /img/mapa.png
+lastmod: 2025-02-12T13:09:16.643Z
+banner: /img/mapa.png
 url: /llegar/
 title: Cómo llegar
 categories:

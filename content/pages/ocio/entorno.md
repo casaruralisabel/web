@@ -1,9 +1,10 @@
 ---
 layout: page
 multilingual: false
-lastmod: 2025-02-04T14:52:13.871Z
+lastmod: 2025-02-12T14:39:17.797Z
 url: /entorno/
 title: Un entorno para disfrutar
+banner: /img/entorno/albentosa.jpg
 categories:
   - Ocio
 ---
@@ -16,4 +17,4 @@ Los alrededores del pueblo destacan por sus **espectaculares viaductos ferroviar
 
 Además, Albentosa se encuentra cerca de zonas de especial interés natural, como el **Parque Natural de la Sierra de Espadán** o la **Sierra de Javalambre**, donde abundan los senderos y miradores desde los que se pueden observar impresionantes vistas, cielos despejados y una fauna variada, con especies como el águila real, el jabalí o el ciervo.
 
-El clima de la zona, de influencia mediterránea con toques continentales, permite disfrutar de **veranos agradables** y **inviernos fríos**, lo que lo convierte en un destino ideal tanto para escapadas de senderismo en primavera y otoño como para la práctica de deportes de nieve en las estaciones cercanas de Valdelinares y Javalambre.
+El clima de la zona, de influencia mediterránea con toques continentales, permite disfrutar de **veranos agradables** e **inviernos fríos**, lo que lo convierte en un destino ideal tanto para escapadas de senderismo en primavera y otoño como para la práctica de deportes de nieve en las estaciones cercanas de Valdelinares y Javalambre.

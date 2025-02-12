@@ -1,7 +1,7 @@
 ---
 layout: page
 multilingual: false
-lastmod: 2025-02-04T14:47:00.624Z
+lastmod: 2025-02-12T14:39:24.240Z
 image: img/chimenea.jpg
 banner: img/chimenea.jpg
 featured_image: img/chimenea.jpg
