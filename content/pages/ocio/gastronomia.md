@@ -3,7 +3,7 @@ layout: page
 multilingual: false
 lastmod: 2025-02-12T13:11:55.487Z
 url: /gastronomia
-title: Gastromía
+title: Gastronomía
 categories:
   - Ocio
 banner: /img/setas.png
