@@ -6,10 +6,10 @@ url: /gastronomia
 title: Gastronomía
 categories:
   - Ocio
-banner: /img/setas.png
+banner: /img/setas.jpg
 ---
 
-![](/img/setas.png)
+![](/img/setas.jpg)
 
 Sin necesidad de desplazarte, en Albentosa dispones de varios bares y restaurantes donde disfrutar de la gastronomía local. Aquí tienes algunas opciones para degustar platos típicos de la zona:
 
