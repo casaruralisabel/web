@@ -14,7 +14,7 @@ title: Las habitaciones
 
 #### Primera planta
 
-En la primera planta, tres habitaciones amplias y luminosas, todas exteriores, ofrecen un espacio perfecto para el descanso.
+En la primera planta, tres habitaciones amplias y luminosas, todas exteriores, ofrecen un espacio perfecto para el descanso. Cada una tiene su toque especial.
 
 ![](/img/casa/hab1.jpg)
 ![](/img/casa/hab2.jpg)
