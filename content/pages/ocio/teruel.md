@@ -4,7 +4,7 @@ multilingual: false
 lastmod: 2025-02-04T19:03:44.836Z
 url: /teruel
 title: Teruel
-banner: /img/ocio/teruel.jpg
+banner: /img/ocio/teruel/teruel.jpg
 categories:
   - Ocio
 ---
@@ -13,12 +13,12 @@ categories:
 
 ### Ciudad Mudéjar
 
-![](/img/ocio/teruel.jpg)
+![](/img/ocio/teruel/teruel.jpg)
 
 Teruel es famosa por su excepcional arquitectura mudéjar, que fusiona influencias islámicas y cristianas. La ciudad alberga impresionantes monumentos como la Torre de El Salvador y la Catedral, ambos Patrimonio de la Humanidad. Su legado arquitectónico y su encanto medieval, combinado con sus paisajes naturales, hacen de Teruel un lugar único para explorar, aprender y relajarse en un entorno lleno de historia.
 
 **LOS AMANTES DE TERUEL**
-![](/img/ocio/amantes.jpg)
+![](/img/ocio/teruel/amantes.jpg)
 
 Más información en [Amantes de Teruel](https://amantesdeteruel.es/)
 
@@ -26,19 +26,19 @@ Más información en [Amantes de Teruel](https://amantesdeteruel.es/)
 
 Territorio Dinópolis es un parque temático en Teruel dedicado al fascinante mundo de los dinosaurios. Con una combinación de exposiciones, actividades interactivas y recreaciones de los animales prehistóricos que habitaron la región, ofrece una experiencia única para todas las edades. El parque se extiende por varias localizaciones, destacando el Museo Paleontológico de Teruel, donde los visitantes pueden aprender sobre los descubrimientos fósiles de la zona. Un destino ideal para los amantes de la ciencia y la historia natural.
 
-![](/img/ocio/dinopolis.jpg)
+![](/img/ocio/teruel/dinopolis.jpg)
 
 ### MODERNISMO TUROLENSE
 
 El modernismo turolense es una corriente arquitectónica que dejó una huella significativa en la ciudad a finales del siglo XIX y principios del XX. Influenciada por el movimiento modernista catalán, Teruel cuenta con numerosos edificios que destacan por sus formas orgánicas, colores vivos y detalles decorativos. Ejemplos emblemáticos son la Casa de la Madrileña y la Casa Soler, que muestran el esplendor de esta época en la ciudad. El modernismo en Teruel aporta una belleza única y un carácter distintivo que hace de la ciudad un lugar especial para los amantes de la arquitectura.
 
-![](/img/ocio/modernismo.jpg)
+![](/img/ocio/teruel/modernismo.jpg)
 
 Pablo Monguió es el arquitecto por excelencia del modernismo turolense. Entre sus creaciones destacan la Casa Ferrán, La Madrileña o el emblemático Torico de la plaza principal de la ciudad.
 
 ### PLAZA DEL TORICO
 
-![](/img/ocio/torico.jpg)
+![](/img/ocio/teruel/torico.jpg)
 
 La plaza más importante y conocida de la capital turolense. En el centro, la emblemática fuente con el Torico, un toro de pequeño tamaño que atrae la atención de turistas y visitantes.
 
@@ -46,7 +46,7 @@ La plaza más importante y conocida de la capital turolense. En el centro, la em
 
 La Catedral de Teruel, dedicada a Santa María de Mediavilla, es una joya del arte mudéjar aragonés y uno de los principales monumentos de la ciudad. Su construcción comenzó en el siglo XIII, aunque se completó en el siglo XVI. Destaca por su arquitectura única, especialmente la impresionante torre campanario, que es uno de los símbolos más representativos de Teruel. Su interior alberga un valioso conjunto de frescos y una estructura que combina elementos góticos y renacentistas, lo que la convierte en un ejemplo destacado del patrimonio histórico y religioso de la región.
 
-![](/img/ocio/catedral.jpg)
+![](/img/ocio/teruel/catedral.jpg)
 
 ### TORRES MUDÉJARES
 
@@ -58,7 +58,7 @@ Visita el pequeño y acogedor casco medieval turolense las Torres de El Salvador
 
 La Iglesia de San Pedro es uno de los principales ejemplos de la arquitectura mudéjar en Teruel. Construida entre los siglos XIV y XV, destaca por su bellísima torre, que es un icono de la ciudad. Su estructura de ladrillo y sus detalles decorativos reflejan la influencia islámica en el arte cristiano de la época. El interior de la iglesia alberga importantes elementos artísticos, como el retablo mayor y un conjunto de frescos medievales, lo que la convierte en un lugar de gran valor histórico y cultural.
 
-![](/img/ocio/sanpedro.jpg)
+![](/img/ocio/teruel/sanpedro.jpg)
 
 ### ESCALINATA
 
@@ -66,11 +66,11 @@ La Escalinata de Teruel es un emblemático monumento que conecta la ciudad con e
 
 Construida entre 1920 y 1921 para salvar el desnivel existente entre la «Estación del Ferrocarril Central de Aragón» y el casto antiguo de la ciudad.
 
-![](/img/ocio/escalinata.jpg)
+![](/img/ocio/teruel/escalinata.jpg)
 
 ### PAISAJES DE TERUEL
 
-![](/img/ocio/guadalaviar.jpg)
+![](/img/ocio/teruel/guadalaviar.jpg)
 
 La [Senda del Guadalaviar](https://www.mapa.gob.es/es/desarrollo-rural/temas/caminos-naturales/caminos-naturales/sector-noreste/rio-guadalaviar/default.aspx) es una ruta que sigue el curso del río Guadalaviar, ofreciendo una oportunidad para disfrutar de la naturaleza, el paisaje y la historia de la región. Esta senda es ideal para los amantes del senderismo y la aventura al aire libre, ya que transcurre por un entorno de gran belleza, con paisajes montañosos, bosques y praderas.
 
@@ -90,7 +90,7 @@ El paisaje de la ribera también está marcado por la presencia de algunos **peq
 
 La **ribera del río Alfambra** es también rica en patrimonio histórico, ya que a lo largo de su recorrido se pueden encontrar restos de antiguas construcciones, molinos y puentes que dan cuenta de la importancia histórica de la zona en tiempos pasados.
 
-![](/img/ocio/alfambra.jpg)
+![](/img/ocio/teruel/alfambra.jpg)
 
 ### EMBALSE DEL ARQUILLO
 
@@ -103,9 +103,9 @@ Alrededor del embalse, se pueden realizar **caminatas y rutas de senderismo**, q
 Para los pescadores, el embalse ofrece la posibilidad de practicar la pesca deportiva, con especies como la trucha, lo que atrae a muchos entusiastas. Además, es un lugar excelente para la observación de aves, ya que es hogar de diversas especies que aprovechan el entorno acuático y natural.
 
 En resumen, el **Embalse del Arquillo** es un rincón tranquilo y pintoresco de Teruel que combina belleza natural y actividades al aire libre, convirtiéndolo en un excelente destino para quienes buscan disfrutar de la naturaleza, la paz y la serenidad de la región.
-![](/img/ocio/arquillo1.jpg)
+![](/img/ocio/teruel/arquillo1.jpg)
 
-![](/img/ocio/arquillo2.jpg)
+![](/img/ocio/teruel/arquillo2.jpg)
 
 ### Museo Minero Escucha
 
@@ -119,5 +119,5 @@ El **Museo Minero de Escucha** no solo es un lugar de interés para los apasiona
 
 Es una excelente manera de conectar con el pasado industrial de la región mientras se disfruta de un recorrido educativo y único.
 
-**![](/img/ocio/escucha1.jpg)**
-**![](/img/ocio/escucha2.jpg)**
+**![](/img/ocio/teruel/escucha1.jpg)**
+**![](/img/ocio/teruel/escucha2.jpg)**
