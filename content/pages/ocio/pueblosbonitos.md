@@ -2,8 +2,8 @@
 layout: page
 multilingual: false
 lastmod: 2025-02-04T19:03:44.836Z
-url: /actividades
-title: Actividades en Albentosa y alrededores
+url: /pueblosbonitos
+title: Los pueblos más bonitos para visitar
 categories:
   - Ocio
 ---
@@ -55,21 +55,13 @@ Albentosa es un destino perfecto para disfrutar de la tranquilidad y la naturale
 
 ---
 
-## Eventos y festividades
+## Eventos y gastronomía
+
+### Eventos y festividades
 
 - **[Memorial March de Albentosa](https://www.diariodeteruel.es/comarcas/el-publico-del-memorial-march-de-albentosa-participara-activamente-como-poblacion-civil)**: Un evento de recreación histórica que transporta a los visitantes a la época de la Guerra Civil Española.
 - **[Mora Shopping en Mora de Rubielos](https://www.moraderubielos.com/index.php/servicios/mora-shopping)**: Un mercado con productos artesanales, moda y gastronomía local.
 
-Fiestas de Albentosa [Fiestas de Albentosa](https://www.albentosa.es/el-pueblo/cultura/fiestas-populares/)
-
-Feria de la Trufa [Feria de la Trufa Sarrión](https://fitruf.es/)
-
-Medievales Teruel [Medievales Teruel](https://www.tradicionesyfiestas.com/fiesta/bodas-de-isabel-de-segura-en-teruel/)
-
 ---
 
 Si buscas disfrutar de la naturaleza, el deporte, la cultura y la gastronomía en un entorno único, Albentosa y sus alrededores tienen todo lo que necesitas. ¡Te esperamos para vivir una experiencia inolvidable!
-
-## Dinópolis
-
-## Pino Escobón

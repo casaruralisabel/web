@@ -132,6 +132,19 @@ weight = 3
 parent = "section.portfolio"
 
 [[menu.main]]
+name = "Los pueblos más bonitos para visitar"
+url = "/pueblosbonitos"
+weight = 4
+parent = "section.portfolio"
+
+[[menu.main]]
+name = "Teruel"
+url = "/teruel"
+weight = 5
+parent = "section.portfolio"
+
+
+[[menu.main]]
 name = "Blog"
 identifier = "menu.blog"
 url = "/blog/"
