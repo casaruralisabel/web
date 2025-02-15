@@ -145,6 +145,13 @@ parent = "section.portfolio"
 
 
 [[menu.main]]
+name = "Albentosa"
+url = "/albentosa"
+weight = 6
+parent = "section.portfolio"
+
+
+[[menu.main]]
 name = "Blog"
 identifier = "menu.blog"
 url = "/blog/"
