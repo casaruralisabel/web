@@ -25,6 +25,8 @@ Teruel es famosa por su excepcional arquitectura mudéjar, que fusiona influenci
 
 
 **LOS AMANTES DE TERUEL**
+
+
 ![](/img/ocio/teruel/amantes.jpg)
 
 Más información en [Amantes de Teruel](https://amantesdeteruel.es/)
