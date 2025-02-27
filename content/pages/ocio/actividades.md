@@ -71,7 +71,7 @@ Medievales Teruel [Medievales Teruel](https://www.tradicionesyfiestas.com/fiesta
 Si buscas disfrutar de la naturaleza, el deporte, la cultura y la gastronomía en un entorno único, Albentosa y sus alrededores tienen todo lo que necesitas. ¡Te esperamos para vivir una experiencia inolvidable!
 
 ## Dinópolis
-https://www.dinopolis.com/)
+[Dinopolis](https://www.dinopolis.com/)
 
 ## Pino Escobón
 https://www.aragon.es/-/arbol-singular-pino-del-escobon)
