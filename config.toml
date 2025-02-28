@@ -178,28 +178,34 @@ url = "https://wa.me/34606649548"
 pre = "<i class='fa-brands fa-2x fa-whatsapp'></i>"
 
 [[menu.topbar]]
-weight = 2
+    weight = 2
+    name = "Instagram"
+    url = "http://instagram.com/casaruralisabel5"
+    pre = "<i class='fab fa-2x fa-instagram'></i>"
+
+
+
+[[menu.topbar]]
+weight = 3
 name = "Teléfono"
 url = "tel:+34606649548"
 pre = "<i class='fas fa-2x fa-phone'></i>"
 
+
 [[menu.topbar]]
 weight = 4
+name = "Email"
+url = "mailto:informacion@casaruralisabel.com"
+pre = "<i class='fas fa-2x fa-envelope'></i>"
+
+[[menu.topbar]]
+weight = 5
 name = "Mapa"
 url = "/llegar"
 pre = "<i class='fa-2x fa-solid fa-map-marker'> </i>"
 #
-#[[menu.topbar]]
-#    weight = 4
-#    name = "Twitter"
-#    url = "http://twitter.com"
-#    pre = "<i class='fab fa-2x fa-twitter'></i>"
 
-[[menu.topbar]]
-weight = 3
-name = "Email"
-url = "mailto:informacion@casaruralisabel.com"
-pre = "<i class='fas fa-2x fa-envelope'></i>"
+
 
 [params]
 viewMorePostLink = "/blog/"
