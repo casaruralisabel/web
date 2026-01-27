@@ -15,5 +15,3 @@ categories:
 ## [Albarracín](https://www.albarracin.es/)
 
 ## [Alcalá de la Selva](https://www.alcaladelaselva.org/)
-
-

@@ -11,36 +11,23 @@ categories:
 
 [Teruel](https://www.turismodearagon.com/ficha/teruel/) es una ciudad famosa por muchos elementos, te hablamos a continuación de algunos de ellos.
 
-
-
-
 ### Ciudad Mudéjar
 
 ![](/img/ocio/teruel/teruel.jpg)
 
 Teruel es famosa por su excepcional arquitectura mudéjar, que fusiona influencias islámicas y cristianas. La ciudad alberga impresionantes monumentos como la Torre de El Salvador y la Catedral, ambos Patrimonio de la Humanidad. Su legado arquitectónico y su encanto medieval, combinado con sus paisajes naturales, hacen de Teruel un lugar único para explorar, aprender y relajarse en un entorno lleno de historia.
 
-
-
-
-
 **LOS AMANTES DE TERUEL**
-
 
 ![](/img/ocio/teruel/amantes.jpg)
 
 Más información en [Amantes de Teruel](https://amantesdeteruel.es/)
-
-
-
 
 ### TERRITORIO DINÓPOLIS
 
 Territorio Dinópolis es un parque temático en Teruel dedicado al fascinante mundo de los dinosaurios. Con una combinación de exposiciones, actividades interactivas y recreaciones de los animales prehistóricos que habitaron la región, ofrece una experiencia única para todas las edades. El parque se extiende por varias localizaciones, destacando el Museo Paleontológico de Teruel, donde los visitantes pueden aprender sobre los descubrimientos fósiles de la zona. Un destino ideal para los amantes de la ciencia y la historia natural.
 
 ![](/img/ocio/teruel/dinopolis.jpg)
-
-
 
 ### MODERNISMO TUROLENSE
 
@@ -50,17 +37,11 @@ El modernismo turolense es una corriente arquitectónica que dejó una huella si
 
 Pablo Monguió es el arquitecto por excelencia del modernismo turolense. Entre sus creaciones destacan la Casa Ferrán, La Madrileña o el emblemático Torico de la plaza principal de la ciudad.
 
-
-
-
 ### PLAZA DEL TORICO
 
 ![](/img/ocio/teruel/torico.jpg)
 
 La plaza más importante y conocida de la capital turolense. En el centro, la emblemática fuente con el Torico, un toro de pequeño tamaño que atrae la atención de turistas y visitantes.
-
-
-
 
 ### LA CATEDRAL DE TERUEL
 
@@ -68,26 +49,17 @@ La Catedral de Teruel, dedicada a Santa María de Mediavilla, es una joya del ar
 
 ![](/img/ocio/teruel/catedral.jpg)
 
-
-
-
 ### TORRES MUDÉJARES
 
 Las Torres Mudéjares de Teruel son uno de los conjuntos más emblemáticos del patrimonio arquitectónico de la ciudad. Estas torres, construidas entre los siglos XII y XVI, combinan elementos islámicos y cristianos, y destacan por su belleza y singularidad. Entre ellas, la Torre de El Salvador, la Torre de San Martín y la Torre de la Catedral, son las más representativas. Estas estructuras no solo son un ejemplo de la influencia del arte mudéjar, sino también testigos del florecimiento cultural de la región en la Edad Media. En 1986, fueron declaradas Patrimonio de la Humanidad por la UNESCO.
 
 Visita el pequeño y acogedor casco medieval turolense las Torres de El Salvador y San Martín, decoradas siguiendo el estilo árabe, con llamativos y característicos azulejos verdes.
 
-
-
-
 ### IGLESIA DE SAN PEDRO
 
 La Iglesia de San Pedro es uno de los principales ejemplos de la arquitectura mudéjar en Teruel. Construida entre los siglos XIV y XV, destaca por su bellísima torre, que es un icono de la ciudad. Su estructura de ladrillo y sus detalles decorativos reflejan la influencia islámica en el arte cristiano de la época. El interior de la iglesia alberga importantes elementos artísticos, como el retablo mayor y un conjunto de frescos medievales, lo que la convierte en un lugar de gran valor histórico y cultural.
 
 ![](/img/ocio/teruel/sanpedro.jpg)
-
-
-
 
 ### ESCALINATA
 
@@ -96,9 +68,6 @@ La Escalinata de Teruel es un emblemático monumento que conecta la ciudad con e
 Construida entre 1920 y 1921 para salvar el desnivel existente entre la «Estación del Ferrocarril Central de Aragón» y el casto antiguo de la ciudad.
 
 ![](/img/ocio/teruel/escalinata.jpg)
-
-
-
 
 ### PAISAJES DE TERUEL
 
@@ -109,9 +78,6 @@ La [Senda del Guadalaviar](https://www.mapa.gob.es/es/desarrollo-rural/temas/cam
 A lo largo de la senda, los caminantes pueden disfrutar de una caminata tranquila, mientras observan la flora y fauna local, así como la geografía típica de la zona. El recorrido también permite conocer algunos aspectos históricos y culturales de la provincia de Teruel, como antiguas construcciones y puentes que datan de épocas pasadas.
 
 Una característica destacable es la accesibilidad y la variedad de tramos, adaptándose tanto a aquellos que busquen un paseo relajado como a quienes prefieran una experiencia de mayor exigencia física. Además, al estar en una región de clima mediterráneo, los visitantes pueden experimentar un ambiente tanto en invierno, cuando la nieve cubre las montañas cercanas, como en verano, cuando el calor y los paisajes más secos se hacen presentes.
-
-
-
 
 ### Ribera del rio Alfambra
 
@@ -127,9 +93,6 @@ La **ribera del río Alfambra** es también rica en patrimonio histórico, ya qu
 
 ![](/img/ocio/teruel/alfambra.jpg)
 
-
-
-
 ### EMBALSE DEL ARQUILLO
 
 El **Embalse del Arquillo** es una de las maravillas naturales de la provincia de Teruel, ubicada en el municipio de **Monreal del Campo**, en la comarca de Gúdar-Javalambre. Este embalse se encuentra rodeado de un entorno paisajístico impresionante, con montañas, bosques y una flora diversa que lo convierte en un lugar perfecto para disfrutar de la naturaleza.
@@ -144,9 +107,6 @@ En resumen, el **Embalse del Arquillo** es un rincón tranquilo y pintoresco de 
 ![](/img/ocio/teruel/arquillo1.jpg)
 
 ![](/img/ocio/teruel/arquillo2.jpg)
-
-
-
 
 ### Museo Minero Escucha
 
