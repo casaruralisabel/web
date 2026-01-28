@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eclipse Solar 2026: Un espectáculo único desde Teruel 🌒☀️"
-date: 2026-03-01T00:00:00.000Z
+date: 2026-01-28T00:00:00.000Z
 banner: /img/blog/eclipse.png
 lastmod: 2025-02-04T12:23:12.691Z
 ---
