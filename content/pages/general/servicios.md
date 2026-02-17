@@ -27,3 +27,4 @@ En las habitaciones tienes:
 
 - Ropa de cama
 - Toallas
+- Conexión WiFi con Fibra de Internet
